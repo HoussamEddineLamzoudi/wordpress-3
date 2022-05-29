@@ -27,7 +27,6 @@ Author URI: https://github.com/HoussamEddineLamzoudi
 
 ## création du menu pour le plugin
 
-### 01 ajouter le plugin dans le menu du dashpoard et mettere une icone du plugin
 
 ```
 <?php
