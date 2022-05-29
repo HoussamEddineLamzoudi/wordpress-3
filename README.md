@@ -2,7 +2,7 @@
 
 
 ## creation du plugin
-
+```
 <?php
 
 /*
@@ -23,3 +23,4 @@ Author URI: https://github.com/HoussamEddineLamzoudi
 */
 
 ?>
+```
