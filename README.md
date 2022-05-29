@@ -1,1 +1,1 @@
-# wordpress-3
+# wp_footer_plugin
