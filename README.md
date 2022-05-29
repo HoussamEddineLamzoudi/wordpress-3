@@ -85,6 +85,6 @@ add_action('wp_head', 'footer_plugin_css', 100);
 
 1- le fichier index.php
 
-2- defined('ABSPATH') or die('Hey, you can\t access this file');
+2- defined('ABSPATH') or die('Hey, sorry you can\t access this file');
 
 
