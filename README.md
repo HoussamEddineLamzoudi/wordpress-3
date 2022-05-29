@@ -65,4 +65,20 @@ add_action('wp_head', 'footer_plugin_css', 100);
     
 ```
 
+## footer html
+
+```
+ <? php
+ add_action('wp_footer', 'footer_plugin_html');
+
+
+ function footer_plugin_html()
+ {
+  // echo to html footer
+
+ }
+?>
+ 
+```
+
 
