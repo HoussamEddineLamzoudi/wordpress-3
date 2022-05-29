@@ -42,6 +42,7 @@ function footer_setting_page()
 
     // custom_page_html_form is the function in which I have written the HTML for my footer plugin form.
 }
+
 add_action('admin_menu', 'footer_setting_page');
 
 ?>
