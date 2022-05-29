@@ -46,5 +46,23 @@ add_action('admin_menu', 'footer_setting_page');
 
 ?>
 ```
+## style du footer
+
+```
+<?php
+function footer_plugin_css()
+{
+?>
+    <style>
+    // style du footer
+    
+    </style>
+<?php
+}
+
+add_action('wp_head', 'footer_plugin_css', 100);
+?>
+    
+```
 
 
